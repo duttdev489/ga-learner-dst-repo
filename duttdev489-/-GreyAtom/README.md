@@ -10,7 +10,7 @@
 
 - List Operations
 
-- Dictionary Options
+- Dictionary Operations
 
 - String indexing and formatting
 
